@@ -1,5 +1,7 @@
 ## Eclipse SAO
 
+![Eclipse SAO](working_docs/eclipse_sao_final.jpg)
+
 A quick and dirty SAO project for Hackaday Supercon 2024.
 
 My first SAO, first attempt to do halftone on a PCB.
